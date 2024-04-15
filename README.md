@@ -37,6 +37,3 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kris291099/count.svg?"  />
-</div>
