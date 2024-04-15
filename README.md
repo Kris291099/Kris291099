@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kisan Rathod, you can call me Kris</h1>
 <h3 align="center">A passionate Blockchain Developer from India</h3>
 <div align="center">
-  <img height="200" src="https://cdn.dribbble.com/users/992933/screenshots/4828718/boy.gif"  />
+  <img height="200" src="https://rajacepat.com/assets/frontend/img/webdev.gif"  />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kris291099&label=Profile%20views&color=0e75b6&style=flat" alt="kris291099" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kris291099" alt="kris291099" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kris291099" alt="kris291099" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kishan_ksr" target="blank"><img src="https://img.shields.io/twitter/follow/kishan_ksr?logo=twitter&style=for-the-badge" alt="kishan_ksr" /></a> </p>
 
@@ -21,6 +21,9 @@
 <p align="left">
 <a href="https://twitter.com/kishan_ksr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kishan_ksr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kris2910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kris2910" height="30" width="40" /></a>
+  <a href="https://discord.com/users/kris2910" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+ </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
