@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kisan Rathod, you can call me Kris</h1>
+<h1 align="center">Hi 👋, I'm Kisan Rathod (Kris), Passionate Developer Ready to Collaborate!</h1>
 <h3 align="center">Blockchain Enthusiast and Aspiring Developer from India</h3>
 <div align="center">
   <img height="200" src="https://rajacepat.com/assets/frontend/img/webdev.gif"  />
